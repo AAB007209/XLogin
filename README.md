@@ -1,2 +1,2 @@
 # XLogin
-This Repository includes the XLogin React Mini Buildout code.
+This Repository is a part of Mini Buildout in React which is XLogin
